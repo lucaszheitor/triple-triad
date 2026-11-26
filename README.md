@@ -1,6 +1,6 @@
 # Triple Triad — Java
 
-Implementação em Java do jogo de cartas **Triple Triad**, desenvolvida como projeto prático para consolidar conceitos de lógica de programação e Programação Orientada a Objetos (POO).
+Implementação em Java do jogo de cartas **Triple Triad**, desenvolvida individualmente para a disciplina de **Paradigmas de Programação** (4º período de Ciência da Computação — UEPB), com foco em lógica de programação e Programação Orientada a Objetos (POO).
 
 ## Sobre o Projeto
 
@@ -25,4 +25,19 @@ O Triple Triad é um jogo estratégico de turnos disputado em um tabuleiro **3x3
 1. Certifique-se de ter o **Java JDK** instalado em sua máquina.
 2. Clone este repositório ou baixe os arquivos:
    ```bash
-   git clone [https://github.com/lucaszheitor/triple-triad.git](https://github.com/lucaszheitor/triple-triad.git)
+   git clone https://github.com/lucaszheitor/triple-triad.git
+   ```
+3. Acesse a pasta `src` e compile os arquivos `.java`:
+   ```bash
+   javac *.java
+   ```
+4. Execute a classe principal do projeto:
+   ```bash
+   java Main
+   ```
+
+## Autor
+
+**Lucas Heitor Lopes da Silva**  
+Estudante de Ciência da Computação — UEPB  
+[LinkedIn](https://www.linkedin.com/in/lucas-heitor006)
